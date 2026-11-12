@@ -2,10 +2,6 @@
   "products": {
     "cycle": 0,
     "remaining": [
-      "Gray Baby Carrier(GBC)",
-      "LED Beauty Mask(LBM)",
-      "Baby Nail File(BNF)",
-      "Automatic Nail Clipper(ENC)",
       "Breast Pumps(BP)",
       "Gray stroller cup holder(Gtray)",
       "Breathable Baby CarrierM(BCM)",
@@ -17,17 +13,21 @@
       "Baby Stroller Organizer(BSO)",
       "Gray Stroller Organizer(GSO)",
       "Inflatable Baby Seat(IBS)",
-      "Breathable Baby Carrier(BBC)"
+      "Breathable Baby Carrier(BBC)",
+      "Gray Baby Carrier(GBC)",
+      "LED Beauty Mask(LBM)",
+      "Baby Nail File(BNF)",
+      "Automatic Nail Clipper(ENC)"
     ],
     "recent": [
-      "Automatic Nail Clipper(ENC)",
-      "Baby Nail File(BNF)",
-      "Breathable Baby CarrierM(BCM)",
-      "Breathable Baby Carrier(BBC)",
       "Baby Stroller Organizer(BSO)",
       "Gray Stroller Organizer(GSO)",
       "Inflatable Baby Seat(IBS)",
-      "Breathable Baby Carrier(BBC)"
+      "Breathable Baby Carrier(BBC)",
+      "Gray Baby Carrier(GBC)",
+      "LED Beauty Mask(LBM)",
+      "Baby Nail File(BNF)",
+      "Automatic Nail Clipper(ENC)"
     ]
   },
   "batches": {
@@ -38,6 +38,40 @@
         "Inflatable Baby Seat(IBS)",
         "Breathable Baby Carrier(BBC)"
       ]
+    },
+    "2026-11-15": {
+      "products": [
+        "Gray Baby Carrier(GBC)",
+        "LED Beauty Mask(LBM)",
+        "Baby Nail File(BNF)",
+        "Automatic Nail Clipper(ENC)"
+      ],
+      "tips": [
+        "Baby Sitting Practice"
+      ]
     }
+  },
+  "tips": {
+    "cycle": 0,
+    "remaining": [
+      "Healthy Nails for the Family",
+      "Summer Outings with Baby",
+      "Stress-Free Nail Care",
+      "Snack Time on the Go",
+      "Pumping Made Easier",
+      "Baby Carrier Selecting Tips",
+      "Stroller Walk Essentials",
+      "Self-Care for New Moms",
+      "Hands-Free Parenting Hacks",
+      "Traveling with a Baby",
+      "Safe Babywearing Checklist",
+      "Diaper Bag Checklist"
+    ],
+    "done": [
+      "Baby Sitting Practice"
+    ],
+    "recent": [
+      "Baby Sitting Practice"
+    ]
   }
 }
