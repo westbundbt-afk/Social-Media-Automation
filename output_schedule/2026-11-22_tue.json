@@ -1,0 +1,27 @@
+{
+  "batch_id": "2026-11-22",
+  "slot": "tue",
+  "product_name": "Breast Pumps(BP)",
+  "arabic_variant": false,
+  "day": "Tuesday",
+  "city": "Austin",
+  "country": "USA",
+  "language": "English",
+  "timezone": "America/Chicago",
+  "scheduled_local": "2026-11-24T07:00:00-06:00",
+  "scheduled_utc": "2026-11-24T13:00:00+00:00",
+  "image": "modeled_Breast_Pumps_1.jpg",
+  "caption": "modeled_Breast_Pumps_1.txt",
+  "review": "pending",
+  "regenerations": 0,
+  "publish": {
+    "facebook": false,
+    "instagram_feed": false,
+    "threads": false,
+    "attempts": 0,
+    "done": false,
+    "stopped": false,
+    "missed": false,
+    "posted_at": null
+  }
+}
