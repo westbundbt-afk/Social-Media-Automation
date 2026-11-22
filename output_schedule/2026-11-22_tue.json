@@ -10,9 +10,9 @@
   "timezone": "America/Chicago",
   "scheduled_local": "2026-11-24T07:00:00-06:00",
   "scheduled_utc": "2026-11-24T13:00:00+00:00",
-  "image": "modeled_Breast_Pumps_1.jpg",
-  "caption": "modeled_Breast_Pumps_1.txt",
-  "review": "pending",
+  "image": "manual_2026-11-22_tue.jpg",
+  "caption": "manual_2026-11-22_tue.txt",
+  "review": "approved",
   "regenerations": 0,
   "publish": {
     "facebook": false,
@@ -23,5 +23,6 @@
     "stopped": false,
     "missed": false,
     "posted_at": null
-  }
+  },
+  "source": "manual"
 }
