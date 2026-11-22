@@ -10,9 +10,9 @@
   "timezone": "Europe/Brussels",
   "scheduled_local": "2026-11-26T07:00:00+01:00",
   "scheduled_utc": "2026-11-26T06:00:00+00:00",
-  "image": "modeled_Breathable_Baby_CarrierM_1.jpg",
-  "caption": "modeled_Breathable_Baby_CarrierM_1.txt",
-  "review": "pending",
+  "image": "manual_2026-11-22_thu.jpg",
+  "caption": "manual_2026-11-22_thu.txt",
+  "review": "approved",
   "regenerations": 0,
   "publish": {
     "facebook": false,
@@ -23,5 +23,6 @@
     "stopped": false,
     "missed": false,
     "posted_at": null
-  }
+  },
+  "source": "manual"
 }
