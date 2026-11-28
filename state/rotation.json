@@ -1,33 +1,33 @@
 {
   "products": {
-    "cycle": 0,
+    "cycle": 1,
     "remaining": [
+      "LED Beauty Mask(LBM)",
+      "Gray Stroller Organizer(GSO)",
+      "Gray Baby Carrier(GBC)",
+      "Inflatable Baby Seat(IBS)",
+      "Breathable Baby CarrierM(BCM)",
       "Blue Stroller Cup Holder(Btray)",
-      "Baby Sculpting Device(BSM)"
+      "Baby Sculpting Device(BSM)",
+      "Automatic Nail Clipper(ENC)",
+      "Baby Nail File(BNF)",
+      "Detachable Cup Holder(DCH)",
+      "Gray stroller cup holder(Gtray)",
+      "Breast Pumps(BP)"
     ],
     "done": [
       "Baby Stroller Organizer(BSO)",
-      "Gray Stroller Organizer(GSO)",
-      "Inflatable Baby Seat(IBS)",
-      "Breathable Baby Carrier(BBC)",
-      "Gray Baby Carrier(GBC)",
-      "LED Beauty Mask(LBM)",
-      "Baby Nail File(BNF)",
-      "Automatic Nail Clipper(ENC)",
-      "Breast Pumps(BP)",
-      "Gray stroller cup holder(Gtray)",
-      "Breathable Baby CarrierM(BCM)",
-      "Detachable Cup Holder(DCH)"
+      "Breathable Baby Carrier(BBC)"
     ],
     "recent": [
-      "Gray Baby Carrier(GBC)",
-      "LED Beauty Mask(LBM)",
-      "Baby Nail File(BNF)",
-      "Automatic Nail Clipper(ENC)",
       "Breast Pumps(BP)",
       "Gray stroller cup holder(Gtray)",
       "Breathable Baby CarrierM(BCM)",
-      "Detachable Cup Holder(DCH)"
+      "Detachable Cup Holder(DCH)",
+      "Blue Stroller Cup Holder(Btray)",
+      "Baby Sculpting Device(BSM)",
+      "Baby Stroller Organizer(BSO)",
+      "Breathable Baby Carrier(BBC)"
     ]
   },
   "batches": {
@@ -57,12 +57,22 @@
         "Breathable Baby CarrierM(BCM)",
         "Detachable Cup Holder(DCH)"
       ]
+    },
+    "2026-11-29": {
+      "products": [
+        "Blue Stroller Cup Holder(Btray)",
+        "Baby Sculpting Device(BSM)",
+        "Baby Stroller Organizer(BSO)",
+        "Breathable Baby Carrier(BBC)"
+      ],
+      "tips": [
+        "Healthy Nails for the Family"
+      ]
     }
   },
   "tips": {
     "cycle": 0,
     "remaining": [
-      "Healthy Nails for the Family",
       "Summer Outings with Baby",
       "Stress-Free Nail Care",
       "Snack Time on the Go",
@@ -76,10 +86,12 @@
       "Diaper Bag Checklist"
     ],
     "done": [
-      "Baby Sitting Practice"
+      "Baby Sitting Practice",
+      "Healthy Nails for the Family"
     ],
     "recent": [
-      "Baby Sitting Practice"
+      "Baby Sitting Practice",
+      "Healthy Nails for the Family"
     ]
   }
 }
